@@ -1,0 +1,27 @@
+p {
+    color: blue;
+}
+
+h2 p {
+    color: red;
+}
+
+h3 {
+    color: green;
+}
+
+#test{
+    color: yellow;
+}
+
+.blue-txt {
+	color: blue
+}
+
+.red-text {
+    color: red;
+}
+
+green-text {
+    color: green;
+}
